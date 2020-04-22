@@ -2,7 +2,7 @@
   "name": "deedit-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://phys3.github.io/deedit-frontend/",
+  "homepage": "https://filip4428.github.io/deedit-frontend/",
   "dependencies": {
     "@types/node": "^12.7.5",
     "@types/react": "^16.9.2",
