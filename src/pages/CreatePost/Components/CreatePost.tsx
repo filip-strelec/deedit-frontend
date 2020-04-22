@@ -57,7 +57,7 @@ border-bottom : ${props => props.marginPost ==="image" && "2px solid #6c757d"};
 `
 
 const ChooseHeaderUrl = styled(ChooseHeader)`
-border-bottom : ${props => props.marginPost ==="url" && "2px solid #6c757d"};
+border-bottom : ${props => props.marginPost ==="url" && "2px solid green"};
 `
 
 
