@@ -4,7 +4,7 @@ import styled from 'styled-components/macro';
 
 
 const MainSection = styled.div`
-margin-top:60px;
+margin-top:61px;
 display:flex;
 width:100%;
 justify-content:space-between;

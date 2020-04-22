@@ -23,7 +23,7 @@ function App() {
 
           <Route    
         // render={(props) => <Dashboard {...props} isAuthed={true} />}
-          component={() => (<div>404 Not found </div>)} />
+          component={() => (<div>404 Nope </div>)} />
         </Switch>
       </BrowserRouter>
   );

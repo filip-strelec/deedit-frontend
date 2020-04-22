@@ -16,9 +16,9 @@ return (
 
     <MainSection>
 {/* TODO: delete section css in global style when replacing section code */}
-<section>BOX LEFT</section>
+<section>BOX LEFT testing the commit</section>
 <CurrentPost/>
-<section>BOX RIGHT</section>
+<section>BOX RIGHT testing</section>
  </MainSection>
 
 </Page>
