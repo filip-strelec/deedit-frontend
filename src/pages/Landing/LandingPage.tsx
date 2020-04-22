@@ -26,7 +26,7 @@ return (
   
  <MainSection>
 {/* TODO: delete section css in global style when replacing section code */}
-<section>BOX LEFT (Mozda levi sidebar sticky s kul stvarima poput keyboard shortcuts, trenutna statistika (brzina misa, scrollano metara ovaj session ...)</section>
+<section>BOX LeVi (Mozda levi sidebar sticky s kul stvarima poput keyboard shortcuts, trenutna statistika (brzina misa, scrollano metara ovaj session ...)</section>
 <MainPosts/>
 <section>BOX RIGHT(Achievementi u real time-u kak ih useri dobivaju<br></br><br></br><br></br>
 (pokazuju se samo zesci achievementi(tipa golden))
