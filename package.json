@@ -4,20 +4,20 @@
   "private": true,
   "homepage": "https://filip4428.github.io/deedit-frontend/",
   "dependencies": {
-    "@types/node": "^12.7.5",
-    "@types/react": "^16.9.2",
-    "@types/react-dom": "^16.9.0",
-    "@types/react-helmet": "^5.0.10",
+    "@types/node": "^12.12.37",
+    "@types/react": "^16.9.34",
+    "@types/react-dom": "^16.9.6",
+    "@types/react-helmet": "^5.0.15",
     "@types/react-router-dom": "^4.3.5",
     "bootstrap": "^4.4.1",
     "jodit-react": "^1.0.42",
-    "react": "^16.9.0",
-    "react-bootstrap": "^1.0.0-beta.16",
-    "react-dom": "^16.9.0",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.0.0",
+    "react-dom": "^16.13.1",
     "react-helmet": "^5.2.1",
-    "react-router-dom": "^5.0.1",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.1.1",
-    "styled-components": "^4.3.2",
+    "styled-components": "^4.4.1",
     "typescript": "3.6.3"
   },
   "scripts": {
@@ -44,7 +44,7 @@
     ]
   },
   "devDependencies": {
-    "@types/styled-components": "^4.1.19",
+    "@types/styled-components": "^4.4.3",
     "awesome-typescript-loader": "^5.2.1",
     "gh-pages": "^2.2.0",
     "source-map-loader": "^0.2.4",
