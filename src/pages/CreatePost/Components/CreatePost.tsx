@@ -137,9 +137,9 @@ const [Limit, setLimit] = useState(0);
 
 const [PostType, setPostType] = useState("post")
 // TODO: checkbox logic
-const [DeedState, setDeedState] = useState(false)
+// const [DeedState, setDeedState] = useState(false)
 
-let postSection;
+// let postSection;
 
 
 const editor = useRef(null)
