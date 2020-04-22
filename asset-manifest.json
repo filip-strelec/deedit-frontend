@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/deedit-frontend/static/css/main.8ef63b32.chunk.css",
+    "main.js": "/deedit-frontend/static/js/main.6821281a.chunk.js",
+    "main.js.map": "/deedit-frontend/static/js/main.6821281a.chunk.js.map",
+    "runtime~main.js": "/deedit-frontend/static/js/runtime~main.cb202c41.js",
+    "runtime~main.js.map": "/deedit-frontend/static/js/runtime~main.cb202c41.js.map",
+    "static/css/2.86aa6515.chunk.css": "/deedit-frontend/static/css/2.86aa6515.chunk.css",
+    "static/js/2.1d8b797c.chunk.js": "/deedit-frontend/static/js/2.1d8b797c.chunk.js",
+    "static/js/2.1d8b797c.chunk.js.map": "/deedit-frontend/static/js/2.1d8b797c.chunk.js.map",
+    "index.html": "/deedit-frontend/index.html",
+    "precache-manifest.eea23c997749d3dc62726b6cc2431187.js": "/deedit-frontend/precache-manifest.eea23c997749d3dc62726b6cc2431187.js",
+    "service-worker.js": "/deedit-frontend/service-worker.js",
+    "static/css/2.86aa6515.chunk.css.map": "/deedit-frontend/static/css/2.86aa6515.chunk.css.map",
+    "static/css/main.8ef63b32.chunk.css.map": "/deedit-frontend/static/css/main.8ef63b32.chunk.css.map"
+  }
+}
