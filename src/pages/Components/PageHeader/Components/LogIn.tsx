@@ -9,12 +9,12 @@ display:flex;
 
 
 
-interface TitleProps {
-    readonly marginRight?: string;
-  };
+// interface TitleProps {
+//     readonly marginRight?: string;
+//   };
   
-  const LoginButton = styled(Button)<TitleProps>`
-    margin-right: ${props => props.marginRight };
+  const LoginButton = styled(Button)`
+    /* margin-right: ${props => props.marginRight }; */
   `
 
 
@@ -27,7 +27,7 @@ const Login:React.FC = ()=>{
 
     return(
         <ButtonsWrapper>
-<LoginButton variant="secondary" marginRight ="22px" >Log In</LoginButton>
+<LoginButton variant="secondary"  >Log In</LoginButton>
 
 <LoginButton variant="secondary" >Sign Up</LoginButton>
 </ButtonsWrapper>
